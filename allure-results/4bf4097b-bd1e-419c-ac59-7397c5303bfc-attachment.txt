@@ -1,0 +1,14 @@
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:11 TEST IS STARTED
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:13 OPENING THE BROWSER
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:16 MAXIMIZE THE WINDOW
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:21 NAVIGATE TO THE URL
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:24 ENTER THE USERNAME
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:27 ENTER THE PASSWORD
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:30 CLICK ON THE LOGIN BUTTON
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:33 CHECKING FOR THE TITLE
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:36 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:39 PRINTING STATUS
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:42 PRINT TEXT AFTER LOGIN
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:47 LOGOUT FROM THE APPLICATION
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:50 CLOSE THE BROWSER
+[32mINFO    [0m Test_20_04_pracctice:test_20_04_practice_log.py:66 TEST IS COMPLETED

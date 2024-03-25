@@ -1,0 +1,42 @@
+ 2024-03-13 21:05:45,201 : Test_20_01_ohrm : INFO : 14 : test_20_01_orange_hrm : TEST CASE IS STARTED 
+ 2024-03-13 21:05:45,203 : Test_20_01_ohrm : INFO : 16 : test_20_01_orange_hrm : OPEN THE BROWSER 
+ 2024-03-13 21:05:50,960 : Test_20_01_ohrm : INFO : 20 : test_20_01_orange_hrm : MAZIMIZE THE WINDOW 
+ 2024-03-13 21:05:52,114 : Test_20_01_ohrm : INFO : 24 : test_20_01_orange_hrm : IMPLICIT WAIT 
+ 2024-03-13 21:05:53,116 : Test_20_01_ohrm : INFO : 28 : test_20_01_orange_hrm : NAVIGATE THE URL 
+ 2024-03-13 21:05:59,963 : Test_20_01_ohrm : INFO : 32 : test_20_01_orange_hrm : ENTER THE USERNAME 
+ 2024-03-13 21:06:02,064 : Test_20_01_ohrm : INFO : 36 : test_20_01_orange_hrm : ËNTER THE PASSWORD 
+ 2024-03-13 21:06:03,211 : Test_20_01_ohrm : INFO : 40 : test_20_01_orange_hrm : CLICK ON THE LOGIN BUTTON 
+ 2024-03-13 21:06:05,717 : Test_20_01_ohrm : INFO : 45 : test_20_01_orange_hrm : LOOKING FOE AN ELEMENT/PAGE TITLE 
+ 2024-03-13 21:06:06,803 : Test_20_01_ohrm : INFO : 49 : test_20_01_orange_hrm : PRINTING STATEMENT 
+ 2024-03-13 21:06:06,809 : Test_20_01_ohrm : INFO : 52 : test_20_01_orange_hrm : TAKING THE SCREENSHOT 
+ 2024-03-13 21:06:07,192 : Test_20_01_ohrm : INFO : 55 : test_20_01_orange_hrm : PROCEEDING FOR LOGOUT 
+ 2024-03-13 21:06:08,499 : Test_20_01_ohrm : INFO : 60 : test_20_01_orange_hrm : CLOSE THE BROWSER 
+ 2024-03-13 21:06:08,624 : Test_20_01_ohrm : INFO : 75 : test_20_01_orange_hrm : TEST CASE IS COMPLETED 
+ 2024-03-13 21:09:51,423 : Test_20_01_ohrm : INFO : 14 : test_20_01_orange_hrm : TEST CASE IS STARTED 
+ 2024-03-13 21:09:51,423 : Test_20_01_ohrm : INFO : 16 : test_20_01_orange_hrm : OPEN THE BROWSER 
+ 2024-03-13 21:09:54,725 : Test_20_01_ohrm : INFO : 20 : test_20_01_orange_hrm : MAZIMIZE THE WINDOW 
+ 2024-03-13 21:09:55,854 : Test_20_01_ohrm : INFO : 24 : test_20_01_orange_hrm : IMPLICIT WAIT 
+ 2024-03-13 21:09:56,856 : Test_20_01_ohrm : INFO : 28 : test_20_01_orange_hrm : NAVIGATE THE URL 
+ 2024-03-13 21:09:58,734 : Test_20_01_ohrm : INFO : 32 : test_20_01_orange_hrm : ENTER THE USERNAME 
+ 2024-03-13 21:10:03,486 : Test_20_01_ohrm : INFO : 36 : test_20_01_orange_hrm : ENTER THE PASSWORD 
+ 2024-03-13 21:10:04,609 : Test_20_01_ohrm : INFO : 40 : test_20_01_orange_hrm : CLICK ON THE LOGIN BUTTON 
+ 2024-03-13 21:10:06,748 : Test_20_01_ohrm : INFO : 45 : test_20_01_orange_hrm : LOOKING FOE AN ELEMENT/PAGE TITLE 
+ 2024-03-13 21:10:07,828 : Test_20_01_ohrm : INFO : 49 : test_20_01_orange_hrm : PRINTING STATEMENT 
+ 2024-03-13 21:10:07,832 : Test_20_01_ohrm : INFO : 52 : test_20_01_orange_hrm : TAKING THE SCREENSHOT 
+ 2024-03-13 21:10:08,082 : Test_20_01_ohrm : INFO : 55 : test_20_01_orange_hrm : PROCEEDING FOR LOGOUT 
+ 2024-03-13 21:10:09,559 : Test_20_01_ohrm : INFO : 60 : test_20_01_orange_hrm : CLOSE THE BROWSER 
+ 2024-03-13 21:10:09,776 : Test_20_01_ohrm : INFO : 75 : test_20_01_orange_hrm : TEST CASE IS COMPLETED 
+ 2024-03-13 21:11:18,297 : Test_20_01_ohrm : INFO : 14 : test_20_01_orange_hrm : TEST CASE IS STARTED 
+ 2024-03-13 21:11:18,297 : Test_20_01_ohrm : INFO : 16 : test_20_01_orange_hrm : OPEN THE BROWSER 
+ 2024-03-13 21:11:21,476 : Test_20_01_ohrm : INFO : 20 : test_20_01_orange_hrm : MAZIMIZE THE WINDOW 
+ 2024-03-13 21:11:22,599 : Test_20_01_ohrm : INFO : 24 : test_20_01_orange_hrm : IMPLICIT WAIT 
+ 2024-03-13 21:11:23,600 : Test_20_01_ohrm : INFO : 28 : test_20_01_orange_hrm : NAVIGATE THE URL 
+ 2024-03-13 21:11:29,594 : Test_20_01_ohrm : INFO : 32 : test_20_01_orange_hrm : ENTER THE USERNAME 
+ 2024-03-13 21:11:30,696 : Test_20_01_ohrm : INFO : 36 : test_20_01_orange_hrm : ENTER THE PASSWORD 
+ 2024-03-13 21:11:31,805 : Test_20_01_ohrm : INFO : 40 : test_20_01_orange_hrm : CLICK ON THE LOGIN BUTTON 
+ 2024-03-13 21:11:32,869 : Test_20_01_ohrm : INFO : 45 : test_20_01_orange_hrm : LOOKING FOE AN ELEMENT/PAGE TITLE 
+ 2024-03-13 21:11:34,410 : Test_20_01_ohrm : INFO : 49 : test_20_01_orange_hrm : TAKING THE SCREENSHOT 
+ 2024-03-13 21:11:34,680 : Test_20_01_ohrm : INFO : 52 : test_20_01_orange_hrm : PRINTING STATEMENT 
+ 2024-03-13 21:11:34,681 : Test_20_01_ohrm : INFO : 55 : test_20_01_orange_hrm : PROCEEDING FOR LOGOUT 
+ 2024-03-13 21:11:35,712 : Test_20_01_ohrm : INFO : 60 : test_20_01_orange_hrm : CLOSE THE BROWSER 
+ 2024-03-13 21:11:35,893 : Test_20_01_ohrm : INFO : 75 : test_20_01_orange_hrm : TEST CASE IS COMPLETED 

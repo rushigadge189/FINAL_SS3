@@ -1,0 +1,28 @@
+ 2024-03-16 21:22:39,325 : Test_20_04_pracctice : INFO : 11 : test_20_04_practice_auto_log : TEST IS STARTED 
+ 2024-03-16 21:22:39,325 : Test_20_04_pracctice : INFO : 13 : test_20_04_practice_auto_log : OPENING THE BROWSER 
+ 2024-03-16 21:22:43,432 : Test_20_04_pracctice : INFO : 16 : test_20_04_practice_auto_log : MAXIMIZE THE WINDOW 
+ 2024-03-16 21:22:43,567 : Test_20_04_pracctice : INFO : 21 : test_20_04_practice_auto_log : NAVIGATE TO THE URL 
+ 2024-03-16 21:22:47,088 : Test_20_04_pracctice : INFO : 24 : test_20_04_practice_auto_log : ENTER THE USERNAME 
+ 2024-03-16 21:22:47,311 : Test_20_04_pracctice : INFO : 27 : test_20_04_practice_auto_log : ENTER THE PASSWORD 
+ 2024-03-16 21:22:47,459 : Test_20_04_pracctice : INFO : 30 : test_20_04_practice_auto_log : CLICK ON THE LOGIN BUTTON 
+ 2024-03-16 21:22:48,037 : Test_20_04_pracctice : INFO : 33 : test_20_04_practice_auto_log : CHECKING FOR THE TITLE 
+ 2024-03-16 21:22:48,551 : Test_20_04_pracctice : INFO : 36 : test_20_04_practice_auto_log : TAKING THE SCREENSHOT 
+ 2024-03-16 21:22:48,899 : Test_20_04_pracctice : INFO : 39 : test_20_04_practice_auto_log : PRINTING STATUS 
+ 2024-03-16 21:22:48,899 : Test_20_04_pracctice : INFO : 42 : test_20_04_practice_auto_log : PRINT TEXT AFTER LOGIN 
+ 2024-03-16 21:22:48,946 : Test_20_04_pracctice : INFO : 47 : test_20_04_practice_auto_log : LOGOUT FROM THE APPLICATION 
+ 2024-03-16 21:22:50,066 : Test_20_04_pracctice : INFO : 50 : test_20_04_practice_auto_log : CLOSE THE BROWSER 
+ 2024-03-16 21:22:50,333 : Test_20_04_pracctice : INFO : 66 : test_20_04_practice_auto_log : TEST IS COMPLETED 
+ 2024-03-16 21:25:00,087 : Test_20_04_pracctice : INFO : 11 : test_20_04_practice_auto_log : TEST IS STARTED 
+ 2024-03-16 21:25:00,087 : Test_20_04_pracctice : INFO : 13 : test_20_04_practice_auto_log : OPENING THE BROWSER 
+ 2024-03-16 21:25:03,733 : Test_20_04_pracctice : INFO : 16 : test_20_04_practice_auto_log : MAXIMIZE THE WINDOW 
+ 2024-03-16 21:25:03,906 : Test_20_04_pracctice : INFO : 21 : test_20_04_practice_auto_log : NAVIGATE TO THE URL 
+ 2024-03-16 21:25:05,708 : Test_20_04_pracctice : INFO : 24 : test_20_04_practice_auto_log : ENTER THE USERNAME 
+ 2024-03-16 21:25:05,893 : Test_20_04_pracctice : INFO : 27 : test_20_04_practice_auto_log : ENTER THE PASSWORD 
+ 2024-03-16 21:25:06,093 : Test_20_04_pracctice : INFO : 30 : test_20_04_practice_auto_log : CLICK ON THE LOGIN BUTTON 
+ 2024-03-16 21:25:06,726 : Test_20_04_pracctice : INFO : 33 : test_20_04_practice_auto_log : CHECKING FOR THE TITLE 
+ 2024-03-16 21:25:07,228 : Test_20_04_pracctice : INFO : 36 : test_20_04_practice_auto_log : TAKING THE SCREENSHOT 
+ 2024-03-16 21:25:07,361 : Test_20_04_pracctice : INFO : 39 : test_20_04_practice_auto_log : PRINTING STATUS 
+ 2024-03-16 21:25:07,362 : Test_20_04_pracctice : INFO : 42 : test_20_04_practice_auto_log : PRINT TEXT AFTER LOGIN 
+ 2024-03-16 21:25:07,399 : Test_20_04_pracctice : INFO : 47 : test_20_04_practice_auto_log : LOGOUT FROM THE APPLICATION 
+ 2024-03-16 21:25:08,448 : Test_20_04_pracctice : INFO : 50 : test_20_04_practice_auto_log : CLOSE THE BROWSER 
+ 2024-03-16 21:25:08,715 : Test_20_04_pracctice : INFO : 66 : test_20_04_practice_auto_log : TEST IS COMPLETED 

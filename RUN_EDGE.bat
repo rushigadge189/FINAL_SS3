@@ -1,0 +1,1 @@
+pytest -v -s -W "ignore" "D:\PYTHON CT15\FINAL_REVISION\testcases\test_017_fixture.py" --html="D:\PYTHON CT15\FINAL_REVISION\reports\report.html" --alluredir="D:\PYTHON CT15\FINAL_REVISION\allure-results" --browser edge

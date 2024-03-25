@@ -1,0 +1,12 @@
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:11 TEST CASE IS STARTED
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:13 OPENING THE BROWSER
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:16 NAVIGATING TO THE URL
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:19 ENTER THE USERNAME
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:22 ENTER THE PASSWORD
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:25 CLICK ON THELOGIN BUTTON
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:28 CHECKING FOR THE TITLE/ELEMENT
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:31 TAKING SCREENSHOT
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:34 PRINT STATEMENT
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:37 PRINTING TEXT AFTER LOGIN
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:42 PROCEED FOR LOGOUT
+[32mINFO    [0m Test_20_02_test_pa_logs:test_20_02_test_pract_auto_logs.py:45 CLOSING THE BROWSER

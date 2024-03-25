@@ -1,0 +1,23 @@
+ 2024-03-15 20:14:39,347 : Test_20_03_hero_ku : INFO : 12 : test_20_03_log_hk : TEST IS STARTED 
+ 2024-03-15 20:14:39,348 : Test_20_03_hero_ku : DEBUG : 16 : test_20_03_log_hk : 
+*****THIS IS THE DEBUG LOG***** 
+ 2024-03-15 20:14:39,348 : Test_20_03_hero_ku : INFO : 17 : test_20_03_log_hk : 
+*****THIS IS THE INFO LOG***** 
+ 2024-03-15 20:14:39,348 : Test_20_03_hero_ku : WARNING : 18 : test_20_03_log_hk : 
+*****THIS IS THE WARNING LOG***** 
+ 2024-03-15 20:14:39,349 : Test_20_03_hero_ku : ERROR : 19 : test_20_03_log_hk : 
+*****THIS IS THE ERROR LOG***** 
+ 2024-03-15 20:14:39,349 : Test_20_03_hero_ku : CRITICAL : 20 : test_20_03_log_hk : 
+*****THIS IS THE CRITICAL LOG***** 
+ 2024-03-15 20:14:39,349 : Test_20_03_hero_ku : INFO : 24 : test_20_03_log_hk : OPENING THE BROWSER 
+ 2024-03-15 20:14:39,349 : Test_20_03_hero_ku : INFO : 26 : test_20_03_log_hk : MAXIMIZE THE WINDOW 
+ 2024-03-15 20:14:39,350 : Test_20_03_hero_ku : INFO : 31 : test_20_03_log_hk : NAVIGATING TO THE URL 
+ 2024-03-15 20:14:43,550 : Test_20_03_hero_ku : INFO : 34 : test_20_03_log_hk : ENTERING THE USERNAME 
+ 2024-03-15 20:14:43,666 : Test_20_03_hero_ku : INFO : 37 : test_20_03_log_hk : ENTER THE PASSWORD 
+ 2024-03-15 20:14:43,820 : Test_20_03_hero_ku : INFO : 40 : test_20_03_log_hk : CLICK ON THE LOGIN BUTTON 
+ 2024-03-15 20:14:44,470 : Test_20_03_hero_ku : INFO : 44 : test_20_03_log_hk : CHECK FOR THE PAGE TITLE/ELEMENT 
+ 2024-03-15 20:14:44,501 : Test_20_03_hero_ku : INFO : 47 : test_20_03_log_hk : TAKING THE SCREENSHOT 
+ 2024-03-15 20:14:44,676 : Test_20_03_hero_ku : INFO : 50 : test_20_03_log_hk : PRINTING STATEMENT 
+ 2024-03-15 20:14:44,680 : Test_20_03_hero_ku : INFO : 53 : test_20_03_log_hk : TEXT AFTER LOGIN 
+ 2024-03-15 20:14:44,725 : Test_20_03_hero_ku : INFO : 59 : test_20_03_log_hk : PROCEEDING FOR LOGOUT 
+ 2024-03-15 20:14:45,356 : Test_20_03_hero_ku : INFO : 62 : test_20_03_log_hk : CLOSING THE BROWSER 

@@ -4,6 +4,7 @@ import pytest
 class Test_015_02_user_defined_marker():
 
     @pytest.mark.customer
+
     def test_add_cust(self):
         print( "\nCustomer Added Successfully" ) ;
 
@@ -34,5 +35,6 @@ class Test_015_02_user_defined_marker():
 
     @pytest.mark.patient
     @pytest.mark.sanity
+    @pytest.mark.re
     def test_del_patient(self):
         print ( "\nPatient Deleted Successfully" ) ;

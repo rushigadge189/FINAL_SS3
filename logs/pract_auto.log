@@ -1,0 +1,48 @@
+ 2024-03-14 22:37:48,494 : Test_20_02_test_pa_logs : INFO : 11 : test_20_02_pa_log : TEST CASE IS STARTED 
+ 2024-03-14 22:37:48,495 : Test_20_02_test_pa_logs : INFO : 13 : test_20_02_pa_log : OPENING THE BROWSER 
+ 2024-03-14 22:37:48,495 : Test_20_02_test_pa_logs : INFO : 16 : test_20_02_pa_log : NAVIGATING TO THE URL 
+ 2024-03-14 22:37:50,859 : Test_20_02_test_pa_logs : INFO : 19 : test_20_02_pa_log : ENTER THE USERNAME 
+ 2024-03-14 22:37:50,953 : Test_20_02_test_pa_logs : INFO : 22 : test_20_02_pa_log : ENTER THE PASSWORD 
+ 2024-03-14 22:37:51,047 : Test_20_02_test_pa_logs : INFO : 25 : test_20_02_pa_log : CLICK ON THELOGIN BUTTON 
+ 2024-03-14 22:37:52,637 : Test_20_02_test_pa_logs : INFO : 28 : test_20_02_pa_log : CHECKING FOR THE TITLE/ELEMENT 
+ 2024-03-14 22:37:52,644 : Test_20_02_test_pa_logs : INFO : 31 : test_20_02_pa_log : TAKING SCREENSHOT 
+ 2024-03-14 22:37:52,723 : Test_20_02_test_pa_logs : INFO : 34 : test_20_02_pa_log : PRINT STATEMENT 
+ 2024-03-14 22:37:52,724 : Test_20_02_test_pa_logs : INFO : 37 : test_20_02_pa_log : PRINTING TEXT AFTER LOGIN 
+ 2024-03-14 22:37:52,756 : Test_20_02_test_pa_logs : INFO : 42 : test_20_02_pa_log : PROCEED FOR LOGOUT 
+ 2024-03-14 22:37:53,268 : Test_20_02_test_pa_logs : INFO : 45 : test_20_02_pa_log : CLOSING THE BROWSER 
+ 2024-03-14 22:38:04,971 : Test_20_02_test_pa_logs : INFO : 11 : test_20_02_pa_log : TEST CASE IS STARTED 
+ 2024-03-14 22:38:04,972 : Test_20_02_test_pa_logs : INFO : 13 : test_20_02_pa_log : OPENING THE BROWSER 
+ 2024-03-14 22:38:04,972 : Test_20_02_test_pa_logs : INFO : 16 : test_20_02_pa_log : NAVIGATING TO THE URL 
+ 2024-03-14 22:38:07,374 : Test_20_02_test_pa_logs : INFO : 19 : test_20_02_pa_log : ENTER THE USERNAME 
+ 2024-03-14 22:38:07,472 : Test_20_02_test_pa_logs : INFO : 22 : test_20_02_pa_log : ENTER THE PASSWORD 
+ 2024-03-14 22:38:07,557 : Test_20_02_test_pa_logs : INFO : 25 : test_20_02_pa_log : CLICK ON THELOGIN BUTTON 
+ 2024-03-14 22:38:08,301 : Test_20_02_test_pa_logs : INFO : 28 : test_20_02_pa_log : CHECKING FOR THE TITLE/ELEMENT 
+ 2024-03-14 22:38:08,308 : Test_20_02_test_pa_logs : INFO : 31 : test_20_02_pa_log : TAKING SCREENSHOT 
+ 2024-03-14 22:38:08,389 : Test_20_02_test_pa_logs : INFO : 34 : test_20_02_pa_log : PRINT STATEMENT 
+ 2024-03-14 22:38:08,390 : Test_20_02_test_pa_logs : INFO : 37 : test_20_02_pa_log : PRINTING TEXT AFTER LOGIN 
+ 2024-03-14 22:38:08,422 : Test_20_02_test_pa_logs : INFO : 42 : test_20_02_pa_log : PROCEED FOR LOGOUT 
+ 2024-03-14 22:38:08,911 : Test_20_02_test_pa_logs : INFO : 45 : test_20_02_pa_log : CLOSING THE BROWSER 
+ 2024-03-14 22:38:17,560 : Test_20_02_test_pa_logs : INFO : 11 : test_20_02_pa_log : TEST CASE IS STARTED 
+ 2024-03-14 22:38:17,561 : Test_20_02_test_pa_logs : INFO : 13 : test_20_02_pa_log : OPENING THE BROWSER 
+ 2024-03-14 22:38:17,561 : Test_20_02_test_pa_logs : INFO : 16 : test_20_02_pa_log : NAVIGATING TO THE URL 
+ 2024-03-14 22:38:19,977 : Test_20_02_test_pa_logs : INFO : 19 : test_20_02_pa_log : ENTER THE USERNAME 
+ 2024-03-14 22:38:20,071 : Test_20_02_test_pa_logs : INFO : 22 : test_20_02_pa_log : ENTER THE PASSWORD 
+ 2024-03-14 22:38:20,154 : Test_20_02_test_pa_logs : INFO : 25 : test_20_02_pa_log : CLICK ON THELOGIN BUTTON 
+ 2024-03-14 22:38:21,478 : Test_20_02_test_pa_logs : INFO : 28 : test_20_02_pa_log : CHECKING FOR THE TITLE/ELEMENT 
+ 2024-03-14 22:38:21,485 : Test_20_02_test_pa_logs : INFO : 31 : test_20_02_pa_log : TAKING SCREENSHOT 
+ 2024-03-14 22:38:21,537 : Test_20_02_test_pa_logs : INFO : 34 : test_20_02_pa_log : PRINT STATEMENT 
+ 2024-03-14 22:38:21,538 : Test_20_02_test_pa_logs : INFO : 37 : test_20_02_pa_log : PRINTING TEXT AFTER LOGIN 
+ 2024-03-14 22:38:21,569 : Test_20_02_test_pa_logs : INFO : 42 : test_20_02_pa_log : PROCEED FOR LOGOUT 
+ 2024-03-14 22:38:22,018 : Test_20_02_test_pa_logs : INFO : 45 : test_20_02_pa_log : CLOSING THE BROWSER 
+ 2024-03-14 22:39:42,208 : Test_20_02_test_pa_logs : INFO : 11 : test_20_02_pa_log : TEST CASE IS STARTED 
+ 2024-03-14 22:39:42,209 : Test_20_02_test_pa_logs : INFO : 13 : test_20_02_pa_log : OPENING THE BROWSER 
+ 2024-03-14 22:39:42,209 : Test_20_02_test_pa_logs : INFO : 16 : test_20_02_pa_log : NAVIGATING TO THE URL 
+ 2024-03-14 22:39:44,742 : Test_20_02_test_pa_logs : INFO : 19 : test_20_02_pa_log : ENTER THE USERNAME 
+ 2024-03-14 22:39:44,875 : Test_20_02_test_pa_logs : INFO : 22 : test_20_02_pa_log : ENTER THE PASSWORD 
+ 2024-03-14 22:39:44,994 : Test_20_02_test_pa_logs : INFO : 25 : test_20_02_pa_log : CLICK ON THELOGIN BUTTON 
+ 2024-03-14 22:39:45,784 : Test_20_02_test_pa_logs : INFO : 28 : test_20_02_pa_log : CHECKING FOR THE TITLE/ELEMENT 
+ 2024-03-14 22:39:45,798 : Test_20_02_test_pa_logs : INFO : 31 : test_20_02_pa_log : TAKING SCREENSHOT 
+ 2024-03-14 22:39:45,946 : Test_20_02_test_pa_logs : INFO : 34 : test_20_02_pa_log : PRINT STATEMENT 
+ 2024-03-14 22:39:45,946 : Test_20_02_test_pa_logs : INFO : 37 : test_20_02_pa_log : PRINTING TEXT AFTER LOGIN 
+ 2024-03-14 22:39:45,992 : Test_20_02_test_pa_logs : INFO : 42 : test_20_02_pa_log : PROCEED FOR LOGOUT 
+ 2024-03-14 22:39:46,435 : Test_20_02_test_pa_logs : INFO : 45 : test_20_02_pa_log : CLOSING THE BROWSER 

@@ -1,0 +1,6 @@
+[33mWARNING [0m Test_20_03_hero_ku:test_20_03_heroku_log.py:18 
+*****THIS IS THE WARNING LOG*****
+[1m[31mERROR   [0m Test_20_03_hero_ku:test_20_03_heroku_log.py:19 
+*****THIS IS THE ERROR LOG*****
+[31mCRITICAL[0m Test_20_03_hero_ku:test_20_03_heroku_log.py:20 
+*****THIS IS THE CRITICAL LOG*****

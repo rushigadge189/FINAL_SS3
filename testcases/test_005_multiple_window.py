@@ -26,6 +26,7 @@ class Test_005_multiple_window_handle() :
         allwindow=driver.window_handles ;
         time.sleep(1) ;
 
+
         driver.switch_to.window(allwindow[1]) ;
         print("\n---------TEXT IN CHILD WINDOW--------")
         text1=driver.find_element(By.XPATH, '//h3[text()="New Window"]').text ;
